@@ -37,11 +37,8 @@ public class DifferenceArraysArrayLists {
 		al.remove(5); // removes a value at a given index
 		System.out.println(al); //prints the entire ArrayList (now changed)
 		
-		
-		
-		
-		print_array(a); //prints the entire ArrayList (now changed)
-		print_array_list(al); //prints the entire ArrayList (now changed)		
+		print_array(a); //prints the entire array using a method
+		print_array_list(al); //prints the entire ArrayList using a method	
 		
 	}
 	// method that prints each value in an array
